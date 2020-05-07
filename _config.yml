@@ -40,25 +40,19 @@ skills:
 #blogfeed: https://scholar.google.com/citations?hl=es&user=MjEIuDMAAAAJ
 
 
-#Education is required
-education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+#      link: https://www.coursera.org/specializations/algorithms
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#      date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -78,8 +72,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://raw.githubusercontent.com/vcedeno/vcedeno.github.io/master/img/pic.jpg
+   profileurl:
+   flairimageurl: ./img/pic.jpg
 
 intro: |
   I am a Ph.D. in <a href="https://www.cs.vt.edu/" target="_blank">Computer Science</a> from <a href="https://www.vt.edu" target="_blank"> Virginia Polytechnic Institute and State University</a>. After 5 years of hard work, I successfully defended my doctoral thesis, <a href="https://vtechworks.lib.vt.edu/bitstream/handle/10919/91445/Cedeno_VI_D_2019.pdf" target="_blank">Pipelines for Computational Social Science Experiments and Model Building</a>, on May 2019. My advisors were <a href="https://engineering.virginia.edu/faculty/madhav-marathe"> Madhav V. Marathe</a> and <a href="https://biocomplexity.virginia.edu/christopher-kuhlman">Chris J. Kuhlman</a>. I was a Graduate Research Assistant for the Network Dynamics and Simulation Science Laboratory at Virginia Tech.<br/><br/>
