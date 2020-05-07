@@ -10,7 +10,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: CV
-   url: https://automateddeveloper.blogspot.com/
+   url: ./cv/cv.pdf
  - title: GitHub
    url: https://github.com/vcedeno
  - title: Publications
