@@ -84,7 +84,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
-   <a href=./papers/ictd2020.pdf>Data Analysis on a Domestic Media Space Connecting Internationally Distributed Families</a><br/>
+   - <a href=./papers/ictd2020.pdf>Data Analysis on a Domestic Media Space Connecting Internationally Distributed Families</a><br/>
    by Vanessa Cedeno-Mieles, Javier Tibau, Chris J. Kuhlman, Deborah Tatar, Steve Harrison.<br/> 
    In the International Conference on Information and Communication Technologies and Development. <a href="https://ictd2020.org"> ICTD 2020</a>. June 17-20, Guayaquil, Ecuador.<br/><br/>
    <a href=./papers/snam2020.pdf>Networked experiments and modeling for producing collective identity in a group of human subjects using an iterative abduction framework</a><br/>
@@ -96,7 +96,7 @@ additionalinfo: |
    <a href=./papers/asonam2019.pdf>Mechanistic and Data-Driven Agent-Based Models to Explain Human Behavior in Web-Based Group Anagram Game</a><br/>
    by Vanessa Cedeno-Mieles, Zhihao Hu, Yihui Ren, Xinwei Deng, Abhijin Adiga, Christopher Barrett, Saliya Ekanayake, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Madhav V. Marathe, S. S. Ravi, Brian J. Goode, Naren Ramakrishnan, Parang Saraf, Nathan Self, Noshir Contractor, Joshua M. Epstein, and Michael W. Macy.<br/>
    In the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) 2019. August 27-30, Vancouver, Canada.<br/><br/>
-   <a href=./papers/wsc2018.pdf>Pipelines and Their Compositions for Modeling and Analysis of Controlled Online Networked Social Science Experiments.</a><br/>
+   <a href=./papers/wsc2018.pdf>Pipelines and Their Compositions for Modeling and Analysis of Controlled Online Networked Social Science Experiments</a><br/>
    by Vanessa Cedeno-Mieles, Yihui Re, Zhihao Hu, Xinwei Deng, Saliya Ekanayake, Brian J. Goode, Chris J. Kuhlman,Dustin Machi, Madhav V. Marathe,Henning H. Mortveit, Naren Ramakrishnan, Parang Saraf, Nathan Self, Noshir Contractor, Joshua M. Epstein, Michael W. Macy.<br/>
    In the Winter Simulation Conference (WSC) 2018. December 9-12, Gothenburg, Sweden.<br/><br/>
    <a href=./papers/cikm2018.pdf>Inferring Probabilistic Contagion Models Over Networks Using Active Queries</a><br/>
