@@ -11,10 +11,10 @@ markdown: kramdown
 primarylinks:
  - title: CV
    url: ./cv/cv.pdf
- - title: GitHub
-   url: https://github.com/vcedeno
  - title: Publications
-   url: https://stackoverflow.com/users/258813/rhinds
+   url: ./papersbyyear.html
+ - title: Google Scholar
+   url: https://scholar.google.com/citations?user=MjEIuDMAAAAJ&hl
  - title: Teaching
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
