@@ -36,35 +36,6 @@ skills:
  - Java
  - Hadoop
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-#blogfeed: https://scholar.google.com/citations?hl=es&user=MjEIuDMAAAAJ
-
-
-
-#This section is optional (as is the image link below)
-#coursera:
-#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-#   courses:
-#    - title: Functional Programming Principles in Scala
-#      link: https://www.coursera.org/course/progfun
-#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-#      date: September 16, 2013
-#    - title: Algorithms Design and Analysis, Part 1
-#      link: https://www.coursera.org/specializations/algorithms
-#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-#      date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-#speakerdeck:
-#   profileurl: https://speakerdeck.com/robhinds
-#   talks:
-#    - title: Product Management for Engineers
-#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#      conference: API Conference, Berlin 2018
-#    - title: Agile Machine Learning - from Theory to Production
-#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -104,4 +75,4 @@ additionalinfo: |
    In the 27th ACM International Conference on Information and Knowledge Management. <a href="https://www.cikm2018.units.it/">CIKM 2018</a>. October 22-26, Turin, Italy.<br/><br/>
    - <a href=./papers/asonam2018.pdf>Generative Modeling of Human Behavior and Social Interactions Using Abductive Analysis</a><br/>
    by Yihui Ren, Vanessa Cedeno-Mieles, Zhihao Hu, Xinwei Deng, Abhijin Adiga, Christopher Barrett, Saliya Ekanayake, Brian J. Goode, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Madhav V. Marathe, Naren Ramakrishnan, S. S. Ravi, Parang Saraf, Nathan Self, Noshir Contractor, Joshua M. Epstein, Michael W. Macy.<br/>
-   In the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining. <a href="http://asonam.cpsc.ucalgary.ca/2018/">ASONAM 2018</a>. August 28-31, Barcelona, Spain.<br/><br/>
+   <i>In the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining. <a href="http://asonam.cpsc.ucalgary.ca/2018/">ASONAM 2018</a>. August 28-31, Barcelona, Spain.</i> [<a href="./bibtex/asonam2018.bib">BIBTEX</a>]<br/><br/>
