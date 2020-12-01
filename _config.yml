@@ -56,7 +56,13 @@ intro: |
   A more detailed version about myself is here [<a href="./cv/cv.pdf"><img border=0 id="_x0000_i1027" src=./img/index.gif width="15" height="15"></a>].
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: | 
+additionalinfo: |
+   - <a href=https://doi.org/10.1371/journal.pone.0242453>Data analysis and modeling pipelines for controlled networked social science experiments</a>.<br/>
+   by Vanessa Cedeno-Mieles, Zhihao Hu, Yihui Ren, Xinwei Deng, Noshir Contractor, Saliya Ekanayake, Joshua M. Epstein, Brian J. Goode, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Michael Macy, Madhav V. Marathe, Naren Ramakrishnan, Parang Saraf, Nathan Self.<br/>
+   <i>In <a href="https://journals.plos.org/plosone/">PLOS ONE</a>. November 24, 2020.</i>[<a href=https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0242453>BIBTEX</a>]<br/><br/>
+   - <a <a href=https://arxiv.org/abs/2010.13026>On synthetic data generation for anomaly detection in complex social networks</a><br/>
+   by Andreea Sistrunk, Vanessa Cedeno, Subhodip Biswas.<br/>
+   <i>In AAAI FSS-20: Artificial Intelligence in Government and Public Sector, Washington, DC, USA.</i> [<a href="./bibtex/aaai2020.bib">BIBTEX</a>]<br/><br/> 
    - <a href=./papers/ictd2020.pdf>Data Analysis on a Domestic Media Space Connecting Internationally Distributed Families</a><br/>
    by Vanessa Cedeno-Mieles, Javier Tibau, Chris J. Kuhlman, Deborah Tatar, Steve Harrison.<br/> 
    <i>In the International Conference on Information and Communication Technologies and Development. <a href="https://ictd2020.org">ICTD 2020</a>. June 17-20, Guayaquil, Ecuador.</i> [<a href="./bibtex/ictd2020.bib">BIBTEX</a>]<br/><br/>
