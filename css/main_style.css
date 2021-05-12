@@ -132,7 +132,7 @@ table {
 .top-rounded-panel h1{
 	color: #ff3500;
 	font-weight: 300;
-	padding-top: 15px;
+	/* padding-top: 15px; */
 }
 .content-rounded-panel {
 	padding-left:10px;
@@ -145,6 +145,7 @@ table {
 .rounded_panel {
 	padding-bottom:10px;
 	margin-bottom:10px;
+	margin-top:20px;
 }
 
 .box_width_med{
@@ -198,6 +199,7 @@ table {
 	border-right-style: solid;
 	border-right-width: 0px;
 	margin-bottom:20px;
+	padding-top: 10px;
 }
 
 img {
@@ -413,4 +415,9 @@ td.loginRow {
 
 .github-box {
 	margin-top: 15px;
+}
+
+#stackScore img {
+	max-width: min(100%, 290px);
+	margin-top: 20px;
 }
