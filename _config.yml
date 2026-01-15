@@ -58,6 +58,9 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
+ - <a href=./papers/wsc2025.pdf>A Framework for Modeling and Simulation of Multi-dimensional Coupled Socio-Environmental Networked Experiments</a><br/>
+   by Vanessa Cedeno-Mieles, Majid Shafiee-Jood.<br/>
+   <i>In the Winter Simulation Conference. <a href="https://vcedeno.github.io/papers/wsc2025.pdf">WSC 2025</a>. December 7-10, Seattle, WA.</I><br/><br/>
    - <a href=https://doi.org/10.1371/journal.pone.0242453>Data analysis and modeling pipelines for controlled networked social science experiments</a>.<br/>
    by Vanessa Cedeno-Mieles, Zhihao Hu, Yihui Ren, Xinwei Deng, Noshir Contractor, Saliya Ekanayake, Joshua M. Epstein, Brian J. Goode, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Michael Macy, Madhav V. Marathe, Naren Ramakrishnan, Parang Saraf, Nathan Self.<br/>
    <i>In <a href="https://journals.plos.org/plosone/">PLOS ONE</a>. November 24, 2020. </i>[<a href=https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0242453>BIBTEX</a>]<br/><br/>
